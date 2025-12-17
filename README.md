@@ -1,4 +1,9 @@
-This repository hosts the C++ source code of our algorithms related to the manuscript "Differentially Private frugal Estimation of Quantiles".
+December 17, 2025
+
+This repository hosts the C++ source code of our algorithms related to the manuscript "Differentially Private frugal Estimation of Quantiles"
+by Marco Pulimeno, Massimo Cafaro, Angelo Coluccia and Italo Epicoco.
+University of Salento, Lecce, Italy
+
 
 We provide algorithms working in:
 
